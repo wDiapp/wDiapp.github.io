@@ -1,3 +1,16 @@
 .title{
-
+    font-family: 'Times New Roman', Times, serif;
+    border-color: rgb(252, 176, 35);
+    border-width: 10px;
 }
+.container{
+    background-color: antiquewhite;
+    width: 75vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    }
+    
