@@ -1,16 +1,16 @@
 .title{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman';
     
 }
 .containerT{
-    background-color: antiquewhite;
+    background-color: rgb(255, 238, 215);
     width: 450px;
     height: 600px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 90px;
+    
     border-color: rgb(252, 176, 35);
     border-width: 40px;
     }
@@ -21,7 +21,22 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    gap: 90px;
+    align-items: center;    
+}
+.container1{
+    background-color: rgb(38, 50, 117);
+}
+.container2{
+    background-color: rgb(38, 50, 117);
+}
+.subtitle1{
+    font-size: medium;
+    
+}
+.subtitle2{
+    font-size: medium
+}
+.subtitle3{
+    font-size: medium
 }
     
